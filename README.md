@@ -14,6 +14,7 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 - [Awesome Liferay](#awesome-liferay)
     - [Getting started](#gettingstarted)
     - [Documentation](#documentation)
+    - [Useful Posts](#posts)
     - [Products](#products)
         + [Platform](#platform)
         + [Frameworks](#frameworks)
@@ -44,6 +45,10 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 * [Liferay Portal EE Reference Architecture & Hardware Requirements](https://www.liferay.com/pt/resource?folderId=1645493&title=Liferay+Portal+EE+Reference+Architecture+and+Hardware+Requirements)
 * [From Liferay Portal 6 to 7](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/from-liferay-6-to-liferay-7)
 
+## Userful posts
+* [Liferay 7: Scheduler Manager Gogo Shell Commands](https://www.dontesta.it/en/2017/07/16/liferay-7-scheduler-manager-gogo-shell-command/)
+* [How to enable a JAX-WS Handler to audit SOAP messages via the Liferay Audit Framework](https://www.dontesta.it/en/2019/09/21/how-to-enable-jax-ws-handler-to-audit-soap-messages-via-liferay-audit-framework/)
+
 ## Products
 
 ### Platform
@@ -57,19 +62,16 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 * [AlloyEditor](http://alloyeditor.com/) - Modern content editor that improves the experience for creating web content.
 * [Clay](https://claycss.com/) - A web implementation of the Lexicon Experience Design Language
 * [Lexicon](https://lexicondesign.io/) - An Experience Design Language created with the aim of providing a common framework for building interfaces
-* [Liferay Faces](http://www.liferayfaces.org/) - Framework for building JavaServer Faces in webapp and portlet projects.
 * [MetalJS](http://metaljs.com/) - Modern framework for building beautiful and flexible UI components.
 * [SennaJS](http://sennajs.com/) - SPA (Single page application engine) that increases site performance and page navigation.
-* [Vulcan](https://vulcan.wedeploy.io/) - Guidelines and developer tools for building efficient and evolvable RESTful APIs
 
 ### Mobile
 * [Liferay Sync](https://www.liferay.com/supporting-products/liferay-sync) - Secure and real-time file sharing platform for Liferay Portal.
 * [Liferay Screens](https://www.liferay.com/supporting-products/liferay-screens) - A collection of fully native mobile components.
 * [Liferay Mobile SDK](https://dev.liferay.com/develop/tutorials/-/knowledge_base/7-0/mobile)
-* [WeDeploy Mobile SDK](http://wedeploy.com/docs/intro/using-the-api-client.html#2)
 
 ### Cloud
-* [WeDeploy](http://wedeploy.com/) - Cloud platform with intuitive APIs and hosting capabilities.
+* [DXP Cloud](https://www.liferay.com/products/dxp-cloud) - Enterprise PaaS Tailored for Liferay DXP.
 * [Liferay Marketplace](https://web.liferay.com/marketplace) - The hub for sharing, selling and downloading Liferay Portal apps.
 
 
@@ -91,6 +93,8 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 * [Liferay OSGi Watch](https://github.com/liferay/liferay-osgi-watch) - Watcher utility to help when developing on Liferay 7.x
 * [Lessteps](https://github.com/rafoli/lessteps) - Some useful commands for Liferay 7.x/DXP developers
  
+* [Dummy Factory](https://github.com/yasuflatland-lf/liferay-dummy-factory) Dummy data generator for Liferay 7.x
+* [Damascus](https://github.com/yasuflatland-lf/damascus) Service Builder based CRUD generator for Lifeary 7.x
 ## Compatibility Matrix
 
 * [Liferay Compatibility Matrix](https://web.liferay.com/pt/services/support/compatibility-matrix) - Details of the configurations that are certified and supported by Liferay
@@ -98,7 +102,6 @@ A curated list of awesome Liferay 7.x and DXP docs, libraries, blogs and other r
 ## Blogs and Community
 
 * [Liferay Community](https://community.liferay.com/)
-* [WeDeploy Blog](http://wedeploy.com/blog/)
 
 
 # Contributing
